@@ -1,0 +1,36 @@
+body{
+    background-color: yellow;
+    font-size: 25;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+#b1,#b2,#b3,#b4{
+    color: rebeccapurple;
+    font-size: 15;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#b1:hover{
+    color: royalblue;
+    font-size: 20;
+    font-family: monospace;
+}
+
+#b2:hover{
+    color: royalblue;
+    font-size: 20;
+    font-family: monospace;
+}
+
+#b3:hover{
+    color: royalblue;
+    font-size: 20;
+    font-family: monospace;
+}
+
+#b4:hover{
+    color: royalblue;
+    font-size: 20;
+    font-family: monospace;
+}
